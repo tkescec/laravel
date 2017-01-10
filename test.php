@@ -1,3 +1,0 @@
-<?php
-
-# Tomislav Keščec
